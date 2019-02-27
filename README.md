@@ -1,3 +1,6 @@
+A sample Angular app created following https://angular.io/tutorial
+The original documentation is found below.
+
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.2.
